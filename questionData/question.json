@@ -1,0 +1,25 @@
+{
+    "quiz": 
+    [
+        {
+            "question": "What is React",
+            "choices": ["Framework", "Transpiler", "Compiler","nothing"],
+            "answer": 0
+        },
+        {
+            "question": "React is used for which side",
+            "choices": ["Server", "Client", "None","Both"],
+            "answer": 1
+        },
+        {
+            "question": "which component one is better",
+            "choices": ["Pure Component", "Stateless Component", "None","Both are same"],
+            "answer": 0
+        },
+        {
+            "question": "React was developed by-",
+            "choices": ["Airbnb", "Google", "Microsoft","Facebook"],
+            "answer": 3
+        }
+    ]
+}
